@@ -18,7 +18,8 @@
 
 
 ## Project Demos
-[Resume](https://louis24.github.io/)
+[github.io](https://louis24.github.io/)
+[youtube](https://www.youtube.com/@PhantomDreamAI/)
 
 
 ## Programming
@@ -88,15 +89,15 @@
 
 ## About Me
 
-🎓I graduated from the University of Manchester with a major in Automatic Control(QS Rank 27),and it was a pivotal experience that shaped my analytical mindset and technical skills.
+🎓I graduated from the University of Manchester with a major in Automatic Control(QS Rank 27), and it was a pivotal experience that shaped my analytical mindset and technical skills.
 
 📝With a passion for research, I 've published 4 international papers and hold 13 invention patents. These achievements underscore my commitment to innovation and technological advancement.
 
 💼 With 9 years of hands-on algorithm engineering experience, I've also led teams for 5 years, guiding the development of cutting - edge solutions in various domains.
 
-🖥️My expertise spans Computer Vision, Computer Graphics, and Combinatorial Optimization.These fields allow me to approach problems from multiple angles and create comprehensive solutions.
+🖥️My expertise spans Computer Vision, Computer Graphics, and Combinatorial Optimization. These fields allow me to approach problems from multiple angles and create comprehensive solutions.
 
-🔍My research interests include Diffusion, NerF, and AIGC(AI - Generated Content).These areas push the boundaries of what 's possible in technology, enabling new forms of creativity and interaction.
+🔍My research interests include Diffusion, NerF, and AIGC(AI - Generated Content). These areas push the boundaries of what 's possible in technology, enabling new forms of creativity and interaction.
 
 🎯 Target areas of interest: AIGC, AR/VR, Blockchain, and Games. These sectors fascinate me due to their potential to transform industries and create new experiences.
 
