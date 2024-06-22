@@ -17,6 +17,9 @@
 </div> -->
 
 
+## Project Demos
+[Resume](https://louis24.github.io/)
+
 
 ## Programming
 
@@ -63,7 +66,6 @@
     <a href="https://www.figma.com/"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </div>
 
-
 ## Connect with me
 
 <div align="left">
@@ -83,7 +85,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laserneuron" height="40" width="40" />
   </a>
 </div>
-
 
 ## About Me
 
